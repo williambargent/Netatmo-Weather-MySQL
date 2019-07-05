@@ -1,0 +1,6 @@
+[submodule "Adafruit_Python_DHT"]
+	path = Adafruit_Python_DHT
+	url = https://github.com/adafruit/Adafruit_Python_DHT.git
+[submodule "bme280.py"]
+	path = bme280.py
+	url = https://bitbucket.org/MattHawkinsUK/rpispy-misc/raw/master/python/bme280.py
